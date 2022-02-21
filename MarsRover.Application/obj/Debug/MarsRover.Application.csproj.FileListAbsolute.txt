@@ -1,0 +1,6 @@
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Application\bin\Debug\MarsRover.Application.exe.config
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Application\bin\Debug\MarsRover.Application.exe
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Application\bin\Debug\MarsRover.Application.pdb
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Application\obj\Debug\MarsRover.Application.csprojAssemblyReference.cache
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Application\obj\Debug\MarsRover.Application.exe
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Application\obj\Debug\MarsRover.Application.pdb

@@ -1,0 +1,16 @@
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\bin\Debug\MarsRover.Test.dll
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\bin\Debug\MarsRover.Test.pdb
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\bin\Debug\MarsRover.Application.exe
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\bin\Debug\MarsRover.Application.pdb
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\bin\Debug\MarsRover.Application.exe.config
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\obj\Debug\MarsRover.Test.csprojAssemblyReference.cache
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\obj\Debug\MarsRover.Test.csproj.CopyComplete
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\obj\Debug\MarsRover.Test.dll
+C:\Users\eren.yildirim\source\repos\MarsRover\MarsRover.Test\obj\Debug\MarsRover.Test.pdb
